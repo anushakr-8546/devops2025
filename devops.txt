@@ -2,3 +2,4 @@ welcome to devops
 topics covered
 linux
 git
+ansible
