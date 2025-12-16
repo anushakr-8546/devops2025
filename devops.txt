@@ -6,3 +6,7 @@ ansibled
 docker
 kubernaties
 helm
+
+edit 
+edit
+edit
