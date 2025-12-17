@@ -7,3 +7,5 @@ docker
 kubernaties
 helm
 git lab
+pull
+request
